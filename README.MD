@@ -17,7 +17,7 @@ Full disclosure: I've never written a README before so I used ChatGPT's help.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/color-tracking.git
+git clone https://github.com/aatri/color-tracking.git
 cd color-tracking
 ```
 
